@@ -1,9 +1,9 @@
-#ABOUT This is child theme for wordpress.
+# ABOUT This is child theme for wordpress.
 
-#VERSION
+# VERSION
 
 twentytwelve
 
-#HOW TO USE
+# HOW TO USE
 
 ''' mkdir twentytwelve git clone [THIS REPOSITORY] '''
