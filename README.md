@@ -1,4 +1,5 @@
-# ABOUT This is child theme for wordpress.
+# ABOUT 
+This is child theme for wordpress.
 
 # VERSION
 
